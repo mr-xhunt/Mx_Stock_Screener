@@ -8,4 +8,5 @@
   and then Shows the result
   <h3>OUTPUT</h3>
   Company Name : Current Price(EOD) : 52week high : Percentage difference from all time high
+  e.g: Adani Ports and Special Economic Zone Limited : Current Price = 0 : High52 = 901 : 10 Percent Lesser than High
 </b>
